@@ -1,0 +1,7 @@
+# --- requirements.txt ---
+streamlit
+PyPDF2
+fitz  # pymupdf
+camelot-py[cv]
+pandas
+opencv-python
